@@ -31,12 +31,16 @@ Durante varios meses, los equipos de Microsoft han estado trabajando en el desar
 
 Esta herramienta nos permitirá automatizar y gestionar la infraestructura de equipos.
 
-# Cógido
+# Organización del poryecto
 
-En la carpeta modulos el fichero CrearPassAleatorio.psm1  generar una clave aleatoria.
-
-En la carpeta script esta el fichero Set-ClaveBoveda.ps1 que automatiza el procceso de generar una clave aleatoria,  almacenarla en una boveda keepass y  asignarla al usuario administrador del equipo.
-
+Gestion_Claves
+    |   readme.md
+    |   
+    +---codigo
+    |       Set-claveBoveda.ps1 <- automatiza el procceso de generar una clave aleatoria,  almacenarla en una boveda keepass y  asignarla al usuario                                     administrador del equipo.
+    |       
+    \---modulos
+            CrearPassAleatorio.psm1 <- fichero CrearPassAleatorio.psm1  generar una clave aleatoria
 
 ## Contributing
 
