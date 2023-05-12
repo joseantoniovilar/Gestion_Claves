@@ -1,5 +1,6 @@
 # Prueba de concepto para la gestión de claves aleatorias automatizadas
 
+## Motivación
 Se trata de una prueba de concepto para crear un procedimiento para la generación, automatización y gestión de las contraseña de los usuarios administradores en los equipos de la empresa:
 1. Un método para la generación de una contraseña aleatoria  para cada usuario administrador de los equipos gestionados.
 2. Automatizar de la contraseña aleatoria y almacenamiento en el despliegue de las imágenes en los equipos.
