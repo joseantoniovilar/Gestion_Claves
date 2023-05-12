@@ -38,7 +38,8 @@ Gestion_Claves
     |   readme.md
     |   
     +---codigo
-    |       Set-claveBoveda.ps1 <- automatiza el procceso de generar una clave aleatoria,  almacenarla en una boveda keepass y  asignarla al usuario                                     administrador del equipo.
+    |       Set-claveBoveda.ps1 <- automatiza el procceso de generar una clave aleatoria,  almacenarla en una boveda keepass 
+                                    asignarla al usuario administrador del equipo.
     |       
     \---modulos
             CrearPassAleatorio.psm1 <- fichero CrearPassAleatorio.psm1  generar una clave aleatoria
