@@ -35,7 +35,7 @@ Esta herramienta nos permitirá automatizar y gestionar la infraestructura de eq
 
 En la carpeta modulos el fichero CrearPassAleatorio.psm1  generar una clave aleatoria.
 
-En la carpeta script esta el fichero Set-ClaveBoveda.ps1 que crear una una clave aleatoria, la almacena en una boveda keepass y se la asigna al usuario admisnitrador del equipo.
+En la carpeta script esta el fichero Set-ClaveBoveda.ps1 que automatiza el procceso de generar una clave aleatoria,  almacenarla en una boveda keepass y  asignarla al usuario administrador del equipo.
 
 
 ## Contributing
