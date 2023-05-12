@@ -31,8 +31,9 @@ Durante varios meses, los equipos de Microsoft han estado trabajando en el desar
 
 Esta herramienta nos permitirá automatizar y gestionar la infraestructura de equipos.
 
-# Organización del poryecto
+# Organización del proyecto
 
+```
 Gestion_Claves
     |   readme.md
     |   
@@ -41,6 +42,7 @@ Gestion_Claves
     |       
     \---modulos
             CrearPassAleatorio.psm1 <- fichero CrearPassAleatorio.psm1  generar una clave aleatoria
+```
 
 ## Contributing
 
