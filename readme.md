@@ -48,7 +48,7 @@ Gestion_Claves
 
 ## Contributing
 
-Es libre de utilizar este software. La mejoras y aportaciones son bienvenidas
+Es libre de utilizar este código. La mejoras y aportaciones son bienvenidas
 
 
 ## Authors
