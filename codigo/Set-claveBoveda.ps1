@@ -50,7 +50,7 @@ Register-SecretVault -Name "KeePass_Hosts" -ModuleName "SecretManagement.Keepass
 
 Write-host "La bóveda se ha registrado: " -NoNewline
 Test-SecretVault -Name KeePass_Hosts
-Unregister-SecretVault KeePass_HostRectorado
+Unregister-SecretVault KeePass_Hosts
 #Almacenamos la clave en una bd de keepass en una unidad compartida
 Set-Secret -Vault KeePass_Hosts -Name $host -Secret $clave 
 Write-host "La password del equipo $hostes: "  -NoNewline
