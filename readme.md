@@ -30,7 +30,7 @@ Durante varios meses, los equipos de Microsoft han estado trabajando en el desar
 
 > Los módulos **Secret Management** y **Secret Store** son multiplataforma, también, funcionan en Linux y macOS 
 
-Esta herramienta nos permitirá automatizar y gestionar la infraestructura de equipos.
+Estas herramienta nos permitirá automatizar y gestionar la infraestructura de equipos.
 
 ## Organización del proyecto
 
