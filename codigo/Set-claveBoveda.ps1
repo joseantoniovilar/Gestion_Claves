@@ -20,7 +20,7 @@ param(
     [Parameter(Position = 0,
         ValueFromPipelineByPropertyName
     )]
-    #Valor por defecto upm
+    #Valor por defecto
     [string]$userAdmin = "Nombre usuario admin"
 )
 
